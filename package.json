@@ -1,0 +1,33 @@
+{
+  "name": "panxiulin",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panxiuling/panxiulin"
+  },
+  "website": "https://github.com/panxiuling/panxiulin.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "panxiuling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panxiuling/panxiulin/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/panxiuling/panxiulin#readme",
+  "dependencies": {
+    "pantwotwo": "1.0.2"
+  }
+}
